@@ -5,7 +5,7 @@ export const Interactive = () => {
   return (
     <div className='interactive'>
       <div className='interactive-img'>
-        <img src={gamer} alt='vr-man' />
+        <img className= 'vr-man' src={gamer} alt='vr-man' />
       </div>
 
       <div className='interactive-text'>

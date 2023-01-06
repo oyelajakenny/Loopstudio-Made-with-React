@@ -6,7 +6,7 @@ import Interactive from './Components/Interactive';
 
 function App() {
   return (
-    <div>
+    <div className='App'>
       <Header/>
       <Interactive/>
       <Creation/>
